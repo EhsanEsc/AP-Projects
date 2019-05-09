@@ -1,0 +1,6 @@
+type: Sphere, center: (10, 10, 10), volume: 33
+type: Cuboid, center: (10, 10, 10), volume: 6
+type: Cone, center: (10, 10, 10), volume: 20
+type: Sphere, center: (5, 0, 10), volume: 267
+type: Cuboid, center: (5, 0, 10), volume: 48
+type: Cone, center: (5, 0, 10), volume: 167

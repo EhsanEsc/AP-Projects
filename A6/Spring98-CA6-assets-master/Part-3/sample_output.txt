@@ -1,0 +1,3 @@
+result: team B wins
+result: team A wins
+result: draw!
