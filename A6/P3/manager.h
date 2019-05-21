@@ -14,7 +14,7 @@ public:
   Manager();
   void add_player(int pos, Player* po);
   void start_game();
-  void print_result();
+  std::string get_result();
 private:
   Player* players[6];
   Player* ball_owner;

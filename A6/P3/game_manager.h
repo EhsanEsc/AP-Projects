@@ -14,7 +14,7 @@ public:
 	void add_team_B_defender(int stamina, int dribble, int pass, int defend);
 	void add_team_B_striker(int stamina, int dribble, int pass, int defend);
 	void play();
-	void get_result();
+	std::string get_result();
 private:
 	Manager manager;
 };

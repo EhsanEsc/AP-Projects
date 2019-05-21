@@ -62,15 +62,18 @@ bool Manager::is_finish_game()
   return false;
 }
 
-void Manager::print_result()
+string Manager::get_result()
 {
+  string res;
   if(ball_owner->score_goal())
   {
-    cout << "result: team " << ball_owner->get_team() << " wins" << endl;
+    res = "result: team ";
+    res += ball_owner->get_team();
+    res += " wins";
   }
   else
   {
-    cout << "result: draw!" << endl;
+    res = "result: draw!";
   }
-
+  return res;
 }

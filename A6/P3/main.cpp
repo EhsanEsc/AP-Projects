@@ -12,5 +12,5 @@ int main()
 	game.add_team_B_defender(100, 85, 20, 90);
 	game.add_team_B_striker(100, 50, 20, 10);
 	game.play();
-	game.get_result();
+	cout << game.get_result() << endl;
 }

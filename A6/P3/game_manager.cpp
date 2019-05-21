@@ -36,7 +36,7 @@ void game_manager::play()
   manager.start_game();
 }
 
-void game_manager::get_result()
+std::string game_manager::get_result()
 {
-  manager.print_result();
+  return manager.get_result();
 }
