@@ -1,0 +1,9 @@
+Core number : 1
+Process ID : 4 - Thread ID : 2
+Number of time slots : 3
+Process ID : 3 - Thread ID : 2
+Number of time slots : 1
+Core number : 2
+Core number : 3
+Process ID : 3 - Thread ID : 1
+Number of time slots : 1

@@ -1,0 +1,4 @@
+Core number : <core_num>
+(for each thread in the queue)
+Process ID : <pid> - Thread ID : <tid>
+Number of time slots : <number_of_remaining_time_slots>

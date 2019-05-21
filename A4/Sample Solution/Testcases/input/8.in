@@ -1,0 +1,8 @@
+add_core
+add_core
+add_process 3 4 3 2
+show_cores_stat
+run_cores
+add_core
+add_process 2 1 3
+show_cores_stat

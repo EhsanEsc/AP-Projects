@@ -1,0 +1,2 @@
+Core number : <core_num>
+Process ID : <pid> - Thread ID : <tid>

@@ -1,0 +1,1 @@
+Core with core ID = <core_id> successfully added!

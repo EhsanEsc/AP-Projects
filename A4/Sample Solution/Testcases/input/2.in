@@ -1,0 +1,14 @@
+show_cores_stat
+add_core
+add_core
+add_core
+add_process 5 1 1 1 1 2
+add_process 3 2 5 4
+show_cores_stat
+run_cores
+run_cores
+run_cores
+add_core
+add_process 2 3 3
+show_cores_stat
+finish_tasks
