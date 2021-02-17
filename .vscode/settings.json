@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.class": "jvm-bytecode-verbose",
+        "iosfwd": "cpp"
+    }
+}
